@@ -1,7 +1,7 @@
-.sty
-.aux
-.dvi
-.log
-.out
-.tar
-.tar.gz
+gdictee/*.sty
+gdictee/*.aux
+gdictee/*.dvi
+gdictee/*.log
+gdictee/*.out
+*.tar
+*.tar.gz
