@@ -1,0 +1,14 @@
+CTAN upload of version 0.8
+
+http://dante.ctan.org/upload
+Name gdictee
+Version 0.8
+Name Pander
+Email pander@users.sourceforge.net
+Description Dutch dummy text from Groot Dictee (Grand Dictation)
+Directory http://dante.ctan.org/tex-archive/macros/latex/contrib/
+Quiet no
+Announcement Initial upload to CTAN
+Notes -
+License Free LaTeX Project
+File gdictee.tar.gz
