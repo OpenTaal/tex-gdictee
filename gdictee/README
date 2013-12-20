@@ -1,0 +1,95 @@
+gdictee 
+
+Dutch dummy text from Groot Dictee (Grand Dictation)
+
+Pander <pander@users.sourceforge.net>
+
+============================================================
+
+
+
+1. Contents of the package
+--------------------------
+
+   gdictee.dtx
+   gdictee.ins
+   gdictee.pdf
+   gdictee-test091.tex
+   gdictee-test091.pdf
+   gdictee-test101.tex
+   gdictee-test101.pdf
+   gdictee-test111.tex
+   gdictee-test111.pdf
+   gdictee-test121.tex
+   gdictee-test121.pdf
+   gdictee-test092.tex
+   gdictee-test092.pdf
+   gdictee-test102.tex
+   gdictee-test102.pdf
+   gdictee-test112.tex
+   gdictee-test112.pdf
+   gdictee-test122.tex
+   gdictee-test122.pdf
+   gdictee-test093.tex
+   gdictee-test093.pdf
+   gdictee-test103.tex
+   gdictee-test103.pdf
+   gdictee-test113.tex
+   gdictee-test113.pdf
+   gdictee-test123.tex
+   gdictee-test123.pdf
+   README (this file)
+
+
+
+2. Installation
+--------------------------
+
+ - Run gdictee.ins through latex
+
+ - Move the resulting .sty file to a place where latex finds it.
+   On a TDS compliant system this should be (substitute $TEXMF 
+   with your local or home texmf directory):
+   
+     $TEXMF/tex/latex/gdictee/
+
+ - If you want to produce your own documentation file (maybe 
+   dvi instead of pdf) run gdictee.dtx through pdflatex.
+
+ - Move the documentation (gdictee.pdf, if you haven't produced 
+   your own file in a different format) in a TDS compliant 
+   system to:
+
+     $TEXMF/doc/latex/gdictee
+
+ - If you like to, move the source files (.dtx and .ins) in a
+   source directory of your system.
+ 
+ - Update your filename database. How to achieve this depends 
+   on your system. For teTeX `texhash' will work.
+
+ - If you are using a non TDS compliant system take a look in 
+   the documentation how to install new packages.
+
+
+
+3. License
+--------------------------
+This code is subject to the LaTeX Project Public License. See 
+ 
+ http://www.ctan.org/tex-archive/help/Catalogue/licenses.lppl.html 
+
+for the details of that license. 
+
+The copyright of the text is owned by the authors, which are
+named in the respective texts. More information can be found at
+
+ http://grootdictee.ntr.nl/
+
+on Groot Dictee (Grand Dictation).
+
+
+
+Enjoy gdictee.
+
+= ENDE =
