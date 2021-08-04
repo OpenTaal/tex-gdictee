@@ -1,8 +1,8 @@
-CTAN upload of version 0.8
+CTAN upload of version 0.9
 
 http://dante.ctan.org/upload
 Name gdictee
-Version 0.8
+Version 0.9
 Name Pander
 Email pander@users.sourceforge.net
 Description Dutch dummy text from Groot Dictee (Grand Dictation)
