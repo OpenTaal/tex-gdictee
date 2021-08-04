@@ -23,4 +23,8 @@ content into `gdictee.tar.gz`.
 
 See ctan-uploads.txt for upload details to CTAN.
 
+Make sure to have Dutch support vor Babel installed via e.g.
+
+    sudo apt-get install texlive-lang-european
+
 (TODO escape \"e for ë w.r.t. legacy? use non-breaking space in 's avonds?)
