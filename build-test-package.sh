@@ -1,4 +1,6 @@
+#!/usr/bin/env sh
 set -e
+
 cd gdictee
 rm -f gdictee.sty
 latex gdictee.ins
@@ -8,6 +10,8 @@ for i in gdictee-test*.tex; do
 done
 rm -f *.aux *.dvi *.log *.out
 cd ..
+
 rm -f gdictee.tar.gz gdictee.tar
 tar cf gdictee.tar gdictee
 gzip gdictee.tar
+
